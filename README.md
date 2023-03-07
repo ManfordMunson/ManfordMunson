@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Rust and Unity**
 
-- 💬 Ask me about **ROS**
-
 - 📫 How to reach me **masonmunford@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
