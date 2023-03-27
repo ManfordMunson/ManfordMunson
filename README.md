@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mason</h1>
 <h3 align="center">An embedded software engineer located in Austin, Texas.</h3>
 
-- 🌱 I’m currently learning **Rust and Unity**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **masonmunford@gmail.com**
 
