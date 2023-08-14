@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mason</h1>
-<h3 align="center">An embedded software engineer located in Austin, Texas.</h3>
+<h3 align="center">A software engineer located in Austin, Texas.</h3>
 
 - 🌱 I’m currently learning **Rust**
 
